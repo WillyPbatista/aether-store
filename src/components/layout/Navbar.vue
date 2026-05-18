@@ -4,7 +4,7 @@
     style="background: rgba(7,7,15,0.7); border-bottom: 1px solid rgba(255,255,255,0.10); backdrop-filter: blur(32px);"
   >
     <RouterLink to="/" class="gradient-text font-black text-2xl tracking-tight no-underline">
-      LOTENGO
+      ÆTHER Store
     </RouterLink>
 
     <div class="flex gap-2">

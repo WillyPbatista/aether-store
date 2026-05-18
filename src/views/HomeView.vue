@@ -100,8 +100,8 @@
     </section>
 
     <footer class="text-center py-12 text-xs" style="border-top: 1px solid rgba(255,255,255,0.10); color: rgba(241,240,247,0.30);">
-      <div class="gradient-text font-black text-xl mb-2" style="font-family: 'Syne', sans-serif;">LOTENGO</div>
-      © 2025 LOTENGO Store — Todos los derechos reservados
+      <div class="gradient-text font-black text-xl mb-2" style="font-family: 'Syne', sans-serif;">ÆTHER Store</div>
+      © 2025 ÆTHER Store Store — Todos los derechos reservados
     </footer>
 
   </div>
